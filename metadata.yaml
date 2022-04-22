@@ -17,6 +17,9 @@ contributor:
     agent_name: Grünwald, Béla
     gutenberg_agent_id: '54454'
     url: http://www.gutenberg.org/2009/agents/54454
+covers:
+- cover_type: archival
+  image_path: 67773-h/images/cover.jpg
 creator:
   author:
     agent_name: Rákosi, Viktor
@@ -29,6 +32,8 @@ creator:
     - https://en.wikipedia.org/wiki/Viktor_R%C3%A1kosi
     - https://hu.wikipedia.org/wiki/R%C3%A1kosi_Viktor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67773#Elnemult-harangok-Regeny
 gutenberg_issued: '2022-04-05'
 identifiers:
   gutenberg: '67773'
