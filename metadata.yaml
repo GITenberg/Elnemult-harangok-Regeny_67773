@@ -1,0 +1,48 @@
+_repo: Elnemult-harangok-Regeny_67773
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Mikszath, Kalman
+    - Kálmán Mikszáth
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
+    - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+  illustrator:
+    agent_name: Grünwald, Béla
+    gutenberg_agent_id: '54454'
+    url: http://www.gutenberg.org/2009/agents/54454
+creator:
+  author:
+    agent_name: Rákosi, Viktor
+    alias: Rakosi, Viktor
+    birthdate: 1860
+    deathdate: 1923
+    gutenberg_agent_id: '52157'
+    url: http://www.gutenberg.org/2009/agents/52157
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Viktor_R%C3%A1kosi
+    - https://hu.wikipedia.org/wiki/R%C3%A1kosi_Viktor
+description: ''
+gutenberg_issued: '2022-04-05'
+identifiers:
+  gutenberg: '67773'
+language: hu
+pgterms:marc905: 20220403103839rkosi
+pgterms:marc906: '1905'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin,1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Elnémult harangok: Regény'
+url: http://www.gutenberg.org/ebooks/67773
